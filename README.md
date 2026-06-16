@@ -10,42 +10,59 @@
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
+
+<table>
+<tr>
+
+<td width="50%">
 
 ```javascript
-class Gowtham {
-    constructor() {
-        this.role = "CSE (AI) Student";
-        this.location = "India 🇮🇳";
-        this.interests = [
-            "Full-Stack Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Problem Solving"
-        ];
-    }
+class Developer {
+  constructor() {
+    this.name = "Gowtham";
+    this.role = "Aspiring Software Engineer";
+    this.location = "India 🇮🇳";
+    this.passion = "Building Smart Solutions";
+  }
 
-    currentFocus() {
-        return {
-            learning: [
-                "Advanced React",
-                "System Design",
-                "Data Structures & Algorithms"
-            ],
-            building: [
-                "AI-Powered Applications",
-                "Full-Stack Web Projects"
-            ],
-            goal: "Software Development Engineer",
-            mindset: "Learn • Build • Improve"
-        };
-    }
+  getCurrentStatus() {
+    return {
+      learning: ["DSA", "React", "System Design"],
+      building: "AI-Powered Applications",
+      collaborating: "Full-Stack Projects",
+      challenge: "Solving Real-World Problems"
+    };
+  }
+
+  getSkillLevel() {
+    return "Always Growing 📈";
+  }
 }
 ```
 
-### 🎯 Current Mission
+</td>
 
-Building scalable web applications and AI-powered solutions while strengthening problem-solving skills.
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280">
+
+### 🎯 Mission
+
+*Creating impactful solutions through code*
+
+### ⚡ Vision
+
+*Bridging technology and innovation*
+
+### 🚀 Goal
+
+*Becoming a skilled Software Engineer and contributing to open source*
+
+</td>
+
+</tr>
+</table>
 
 ### 🌱 Currently Learning
 
@@ -64,41 +81,41 @@ I enjoy transforming ideas into real-world applications through code.
 
 ## 💻 Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ## 🌐 Frontend Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ## ⚙️ Backend Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-* FastAPI 🚀
+<p align="center">
+FastAPI 🚀
+</p>
 
 ## 🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## 🤖 AI & Machine Learning
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* Machine Learning Fundamentals
+<p align="center">
+NumPy • Pandas • Matplotlib • Scikit-Learn • Machine Learning Fundamentals
+</p>
 
 ## 🛠️ Tools & Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 </p>
 
@@ -114,9 +131,21 @@ I enjoy transforming ideas into real-world applications through code.
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham2007-code&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Gowtham2007-code&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham2007-code&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -135,12 +164,6 @@ Developing responsive and scalable web applications with React, Node.js, Express
 ### 💡 Problem-Solving Projects
 
 Applying programming and analytical thinking to solve real-world challenges.
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham2007-code&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -170,19 +193,13 @@ Applying programming and analytical thinking to solve real-world challenges.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Gowtham2007-code/Gowtham2007-code/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <div align="center">
 
 ### 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Gowtham2007-code&style=for-the-badge" />
+
+<br><br>
 
 ### ⭐ GitHub Bio
 
