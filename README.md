@@ -194,18 +194,12 @@ Applying programming and analytical thinking to solve real-world challenges.
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Gowtham2007-code&style=for-the-badge" />
-
-<br><br>
-
+  
 ### ⭐ GitHub Bio
 
 Aspiring Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast | Java • Python • JavaScript | Always Learning 🚀
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656981-9cf2b4b4-04f2-4f34-8f65-ec4c0a3cb4f3.gif" width="200">
 
