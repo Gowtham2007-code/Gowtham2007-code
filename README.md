@@ -119,12 +119,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn • Machine Learning Fundamenta
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2007-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
