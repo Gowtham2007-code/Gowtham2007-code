@@ -97,10 +97,6 @@ I enjoy transforming ideas into real-world applications through code.
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<p align="center">
-FastAPI 🚀
-</p>
-
 ## 🗄️ Databases
 
 <p align="center">
@@ -125,8 +121,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn • Machine Learning Fundamenta
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowtham2007-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2007-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -138,18 +132,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn • Machine Learning Fundamenta
 <img src="https://streak-stats.demolab.com?user=Gowtham2007-code&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham2007-code&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
